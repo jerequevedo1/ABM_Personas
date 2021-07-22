@@ -1,0 +1,30 @@
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\bin\Debug\AppPersonasABM.exe.config
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\bin\Debug\AppPersonasABM.exe
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\bin\Debug\AppPersonasABM.pdb
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\obj\Debug\AppPersonasABM.csprojAssemblyReference.cache
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\obj\Debug\AppPersonasABM.frmABM.resources
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\obj\Debug\AppPersonasABM.Properties.Resources.resources
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.GenerateResource.cache
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.CoreCompileInputs.cache
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\obj\Debug\AppPersonasABM.exe
+D:\Documents\TUP\Programacion 1\Proyectos\AppPersonasABM\obj\Debug\AppPersonasABM.pdb
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\bin\Debug\AppPersonasABM.exe.config
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\bin\Debug\AppPersonasABM.exe
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\bin\Debug\AppPersonasABM.pdb
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.AssemblyReference.cache
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\obj\Debug\AppPersonasABM.frmABM.resources
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\obj\Debug\AppPersonasABM.Properties.Resources.resources
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.GenerateResource.cache
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.CoreCompileInputs.cache
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\obj\Debug\AppPersonasABM.exe
+D:\Documents\TUP\Programacion 1\Proyectos\WinFormApp\WinFormEjerciciosGuia\AppPersonasABM\obj\Debug\AppPersonasABM.pdb
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\bin\Debug\AppPersonasABM.exe.config
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\bin\Debug\AppPersonasABM.exe
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\bin\Debug\AppPersonasABM.pdb
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.AssemblyReference.cache
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\obj\Debug\AppPersonasABM.frmABM.resources
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\obj\Debug\AppPersonasABM.Properties.Resources.resources
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.GenerateResource.cache
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\obj\Debug\AppPersonasABM.csproj.CoreCompileInputs.cache
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\obj\Debug\AppPersonasABM.exe
+D:\Documents\RepositorioLocalGit\WinFormApp\AppPersonasABM\obj\Debug\AppPersonasABM.pdb
